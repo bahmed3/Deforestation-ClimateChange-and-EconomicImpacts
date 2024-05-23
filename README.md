@@ -9,6 +9,7 @@ This project analyzes the impacts of deforestation and climate change, including
 - `forecasting_analysis.py`: Script for forecasting future trends based on historical data.
 - `requirements.txt`: List of Python packages required to run the scripts.
 - `README.md`: Project documentation.
+- `analysis_summary.md`: Overall summary of the analysis, including interpretations of the graphs, correlation matrix, and forecasted data.
 
 ## Setup
 
