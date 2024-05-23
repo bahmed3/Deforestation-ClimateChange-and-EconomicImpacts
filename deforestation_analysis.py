@@ -10,7 +10,7 @@ print("Climate Data Columns:", climate_data.columns)
 # Load the deforestation (tree cover loss) data
 deforestation_data_path = r'C:\Users\notbi\OneDrive\Documents\deforestation\data\treecoverloss.csv'
 deforestation_data = pd.read_csv(deforestation_data_path)
-deforestation_data = deforestation_data[['Year', 'Tree Cover Loss (ha)']]  # Select relevant columns
+deforestation_data = deforestation_data[['Year', 'Tree Cover Loss (ha)']] 
 deforestation_data['Year'] = deforestation_data['Year'].astype(int)
 
 # Load the economic data
