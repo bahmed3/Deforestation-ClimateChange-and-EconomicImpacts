@@ -103,3 +103,8 @@ pip install -r requirements.txt
 - **Temperature Change Data**: International Monetary Fund
 - **Tree Cover Loss**: Global Forest Watch
 - **Economic Data**: World Bank
+
+## Interactive Dashboard
+
+You can view the interactive Tableau dashboard [here](https://public.tableau.com/views/AnalysisofClimateChangeDeforestationandEconomicImpacts/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
+
