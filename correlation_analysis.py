@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-combined_data_path = r'C:\Users\notbi\OneDrive\Documents\deforestation\combined_data.csv'
+combined_data_path = r'C:\Users\notbi\OneDrive\Documents\deforestation\data\combined_data.csv'
 combined_data = pd.read_csv(combined_data_path)
 
 print("Combined Data Columns:", combined_data.columns)

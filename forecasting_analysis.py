@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 import numpy as np
 import matplotlib.pyplot as plt
 
-combined_data_path = r'C:\Users\notbi\OneDrive\Documents\deforestation\combined_data.csv'
+combined_data_path = r'C:\Users\notbi\OneDrive\Documents\deforestation\data\combined_data.csv'
 combined_data = pd.read_csv(combined_data_path)
 
 y_column = 'Tree Cover Loss (ha)'
